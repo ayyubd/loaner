@@ -33,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>11272de09fe422107f44affcab24abaa</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Loaner Laptop</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
@@ -41,15 +41,14 @@
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_update_name>sys_hub_flow_11272de09fe422107f44affcab24abaa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:40:42</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:16:19</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=11272de09fe422107f44affcab24abaa"/>
     <sys_variable_value action="delete_multiple" query="document_key=11272de09fe422107f44affcab24abaa"/>
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="x_cdltd_loaner_req_loaner_request">u_choice_4=cmdb_ci_computer^state=14<item display_value="Laptop" endquery="false" field="u_choice_4" goto="false" newquery="false" operator="=" or="false" value="cmdb_ci_computer"/>
-            <item display_value="Reserved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
+        <condition table="x_cdltd_loaner_req_loaner_request">u_choice_4=cmdb_ci_computer^state=14<item display_value="Reserved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
         </condition>
         <name/>
         <on_delete>false</on_delete>
@@ -445,10 +444,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 15:24:17</sys_created_on>
         <sys_id>086875a89f2822107f44affcab24abf7</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:45:00</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:56:30</sys_updated_on>
         <ui_id>8be9d2e1-8ff9-42e9-810a-de2ded195d02</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=086875a89f2822107f44affcab24abf7"/>
@@ -535,10 +534,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 14:21:56</sys_created_on>
         <sys_id>3e1ae9e49fe422107f44affcab24ab19</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:45:00</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:56:30</sys_updated_on>
         <ui_id>4000962e-3ec2-4049-82d2-292f6d3000a1</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3e1ae9e49fe422107f44affcab24ab19"/>
@@ -625,10 +624,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 14:12:34</sys_created_on>
         <sys_id>75f761649fe422107f44affcab24ab50</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:45:00</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:56:30</sys_updated_on>
         <ui_id>0b31f8cf-56e1-4c19-9919-391cf6839707</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=75f761649fe422107f44affcab24ab50"/>
@@ -715,10 +714,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 14:14:07</sys_created_on>
         <sys_id>905829649fe422107f44affcab24ab8f</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:45:00</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:56:30</sys_updated_on>
         <ui_id>9bab581b-b2e6-409a-929f-c7ad38d6d71c</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=905829649fe422107f44affcab24ab8f"/>
@@ -805,10 +804,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 15:26:46</sys_created_on>
         <sys_id>a4f8f1e89f2822107f44affcab24ab75</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:45:00</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:56:30</sys_updated_on>
         <ui_id>2e682d7d-39ba-4024-a49d-9cbf1932bb24</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a4f8f1e89f2822107f44affcab24ab75"/>
@@ -895,10 +894,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 14:16:03</sys_created_on>
         <sys_id>e4c8e1649fe422107f44affcab24ab0b</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-24 15:45:00</sys_updated_on>
+        <sys_updated_on>2025-05-02 11:56:30</sys_updated_on>
         <ui_id>4c49fe14-d8bd-4cb9-b4d2-3019cac6cbe4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e4c8e1649fe422107f44affcab24ab0b"/>
@@ -987,11 +986,11 @@
         <sys_created_on>2025-03-24 14:11:55</sys_created_on>
         <sys_id>40d76d249fe422107f44affcab24ab75</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_11272de09fe422107f44affcab24abaa_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-24 14:11:55</sys_updated_on>
         <url/>
@@ -1010,11 +1009,11 @@
         <sys_created_on>2025-03-24 14:11:55</sys_created_on>
         <sys_id>44d76d249fe422107f44affcab24ab6d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_11272de09fe422107f44affcab24abaa_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-24 14:11:55</sys_updated_on>
         <url/>
@@ -1033,11 +1032,11 @@
         <sys_created_on>2025-03-24 14:11:55</sys_created_on>
         <sys_id>44d76d249fe422107f44affcab24ab7d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_11272de09fe422107f44affcab24abaa_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-24 14:11:55</sys_updated_on>
         <url/>
@@ -1967,11 +1966,11 @@
         <sys_created_on>2025-03-24 15:40:40</sys_created_on>
         <sys_id>002cfdec9f2822107f44affcab24ab34</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b31cbdec9f2822107f44affcab24abf1_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-24 15:40:40</sys_updated_on>
         <url/>
@@ -1990,11 +1989,11 @@
         <sys_created_on>2025-03-24 15:40:40</sys_created_on>
         <sys_id>8c2cfdec9f2822107f44affcab24ab3b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b31cbdec9f2822107f44affcab24abf1_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-24 15:40:40</sys_updated_on>
         <url/>
@@ -2013,11 +2012,11 @@
         <sys_created_on>2025-03-24 15:40:40</sys_created_on>
         <sys_id>c02cbdec9f2822107f44affcab24abfa</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_b31cbdec9f2822107f44affcab24abf1_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-03-24 15:40:40</sys_updated_on>
         <url/>
@@ -2036,7 +2035,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"e42cfdec9f2822107f44affcab24ab9d","name":"plan","plan_signature":null}}</plan>
         <plan_id>11272de09fe422107f44affcab24abaa</plan_id>
-        <snapshot>a71d35609f6822107f44affcab24abcf</snapshot>
+        <snapshot>a4de3185215122107f4407901b6d034d</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-24 15:40:41</sys_created_on>
         <sys_domain>global</sys_domain>
