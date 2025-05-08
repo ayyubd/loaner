@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 11:16:23</sys_created_on>
+        <sys_id>997527eac8d122107f4451bbe1554471</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
+        <sys_update_name>sys_properties_category_997527eac8d122107f4451bbe1554471</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 11:16:23</sys_updated_on>
+        <title><![CDATA[<p>Loner Request Properties</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=997527eac8d122107f4451bbe1554471"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</application>
+        <file_path/>
+        <instance_id>71bc49e097d52a100b9b74b71153af54</instance_id>
+        <instance_name>nowlearning-nlinst02758204-1c6tm-0001</instance_name>
+        <name>sys_properties_category_997527eac8d122107f4451bbe1554471</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;Loaner Request&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-05-07 11:16:23&lt;/sys_created_on&gt;&lt;sys_id&gt;997527eac8d122107f4451bbe1554471&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Loaner Request&lt;/sys_name&gt;&lt;sys_package display_value="Loaner Request" source="x_cdltd_loaner_req"&gt;7eda1cc083f312107f44346f2cda1e33&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Request"&gt;7eda1cc083f312107f44346f2cda1e33&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_997527eac8d122107f4451bbe1554471&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-05-07 11:16:23&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;Loner Request Properties&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=997527eac8d122107f4451bbe1554471"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-406097088</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>9ce535c5211122107f4407901b6d03cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 11:16:23</sys_created_on>
+        <sys_id>4a9527eac8d122107f4451bbe155447a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196aa76050b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 11:16:23</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>4e9527ead8d12210c750c70e7502f479</update_guid>
+        <update_guid_history>4e9527ead8d12210c750c70e7502f479:-406097088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 11:27:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>2473505ac49c41e99791e46fc86db869</sys_id>
+        <sys_metadata>997527eac8d122107f4451bbe1554471</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">7eda1cc083f312107f44346f2cda1e33</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">7eda1cc083f312107f44346f2cda1e33</sys_scope>
+        <sys_scope_delete display_value="">3e4fe966be8b4255996c9868a0b0cfa9</sys_scope_delete>
+        <sys_update_name>sys_properties_category_997527eac8d122107f4451bbe1554471</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_997527eac8d122107f4451bbe1554471">4a9527eac8d122107f4451bbe155447a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 11:27:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
